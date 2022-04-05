@@ -1,7 +1,8 @@
+
 class Person:
     def sayHi(self):
-        print('ghbdtn')
+        print('ghbdtn','  hhhhhhhhhhhhh')
 
-p=Person()
+
+p = Person()
 p.sayHi()
-

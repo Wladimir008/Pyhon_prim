@@ -1,3 +1,9 @@
+
+
+class Person:
+    pass  #
+
+
 print("hhhhhhhhhhh")
 print("vvvvvvvvvvvvvv")
 
@@ -5,7 +11,6 @@ print("vvvvvvvvvvvvvv")
 if 1 + 1 > 1:
     print((((("fiodj")))))
     print((((((((("         ")))))))))
-class Person:
-    pass
-p=Person
+
+p = Person
 print(p)

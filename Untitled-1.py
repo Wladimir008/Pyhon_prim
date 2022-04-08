@@ -22,3 +22,6 @@ if 1 + 1 > 1:
 
 p = Person
 print(p)
+length = 25
+width = 100
+print('Площадь прямоугольника = ', length*width)

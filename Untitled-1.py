@@ -2,6 +2,10 @@
 ddddddddddddddddd
 '''
 
+'''
+
+'''
+
 
 class Person:
     pass  #
@@ -9,10 +13,11 @@ class Person:
 
 print("hhhhhhhhhhh")
 print("vvvvvvvvvvvvvv")
-
+s = 'ccccccccccccccccccccc\
+    gggggggggggggggggggg'
 
 if 1 + 1 > 1:
-    print((((("fiodj")))))
+    print(((((s)))))
     print((((((((("         ")))))))))
 
 p = Person

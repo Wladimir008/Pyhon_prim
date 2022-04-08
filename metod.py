@@ -1,7 +1,9 @@
 
 class Person:
     def sayHi(self):
-        print('ghbdtn','  hhhhhhhhhhhhh')
+        a=4
+        a=a*5
+        print(a)
 
 
 p = Person()
